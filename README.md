@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffe4e1&height=300&section=header&text=Mirae%20Kwak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffe4e1&height=300&section=header&text=mirae-do&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer&descAlignY=51&descAlign=62)
 
 <div align=right>
 	
