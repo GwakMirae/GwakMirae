@@ -1,34 +1,38 @@
-<div align="center">
+<div align="left">
   
-  # mirae-do
-
-<div align=right>
+  # 곽미래 *Mirae Kwak*
+ 
+  majoring in Computer Science and Engineering  
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiraekwak&count_bg=%23FFE4E1&title_bg=%23CBBEB5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mirae.kwak00@gmail.com)](mailto:mirae.kwak00@gmail.com) [![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://miraekwak.tistory.com)](https://miraekwak.tistory.com)
 
-  ### Hello! I'm Mirae Kwak.  
-  
-  I'm Mirae Kwak and majoring in Computer Science and Engineering  
-  📧Email mirae.kwak00@gmail.com  
-  [🍀Blog](https://miraekwak.tistory.com)  
-  
-  
-  ### Techs.
-  
+  <br/>
+	
+  ## Techs.
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
   </div>
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65";/>
+	  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  	  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   </div>
-  <sub>created by https://github.com/qkrdmstlr3/techstack-generator</sub>
+  <div style="display: flex; align-items: flex-start;">
+	  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+  </div>
+	
+  <br/>
+	
+  <sub>created by https://github.com/qkrdmstlr3/techstack-generator</sub>  
+
+  <br/>
+	
+  ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
   
 </div>
