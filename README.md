@@ -3,6 +3,7 @@
   # 곽미래 *Mirae Kwak*
  
   majoring in Computer Science and Engineering  
+  backend developer
 	
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mirae.kwak00@gmail.com)](mailto:mirae.kwak00@gmail.com) [![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://miraekwak.tistory.com)](https://miraekwak.tistory.com)
 
