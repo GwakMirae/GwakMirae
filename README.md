@@ -3,12 +3,18 @@
   # mirae-do
 	
   #### Hi, This is the record of what I do!  
-    
-  [BLOG](https://miraekwak.tistory.com)  
-  
+  <a href="https://miraekwak.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=alfo9490)](https://solved.ac/alfo9490)
+  <br/>
   <br/>
   
   ### Experience.
+  #### SSAFY 10th Generation
+  - Java Coding Track
+  - 2023.07.05 ~ ing
+  #### DND 9th Generation
+  - Backend Developer
+  - 2023.07.03 ~ 2023.08.26
   #### Satrec Initiative Intern.
   - Backend Developer
   - 2022.12.26 ~ 2023.02.22
